@@ -1,0 +1,1 @@
+Windows updates KB 5066835 (and maybe 506589?) breaks [our app](https://bloomlibrary.org/page/resources/downloads) (all versions) on significant portion of machines. This repro is a minimal reproduction.
